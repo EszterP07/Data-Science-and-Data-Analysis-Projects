@@ -18,10 +18,10 @@ Python scripts, SQL queries, and dashboards of PowerBI detailing the full analyt
 
 ## 🛠 Core Skills Highlighted  
 
-- Data Cleaning & Transformation using Python and SQL  
-- Exploratory Data Analysis (EDA) and statistical reasoning  
-- Data Visualization with tools such as Matplotlib, Plotly, Tableau, and Power BI  
-- Business-Oriented Insights derived from analytical results  
+- **Data Cleaning & Transformation** using Python and SQL  
+- **Exploratory Data Analysis (EDA)** and statistical reasoning  
+- **Data Visualization** with tools such as Matplotlib, Plotly, Tableau, and Power BI  
+- **Business-Oriented Insights** derived from analytical results  
 
 ## 🎯 Purpose of This Repository  
 
